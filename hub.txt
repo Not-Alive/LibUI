@@ -33,10 +33,10 @@ do
 		MISSING = {};
 	
 		COLOR = {
-			WINDOW = Color3.fromRGB(40,40,40);
+			WINDOW = Color3.fromRGB(0,0,0);
 			WINDOW_CLOSED = Color3.fromRGB(80, 0, 140);
 			WINDOW_OPENED = Color3.fromRGB(0, 0, 140);
-			TEXT = Color3.fromRGB(180,180,180);
+			TEXT = Color3.fromRGB(255,85,0);
 			BUTTONBG = Color3.fromRGB(60,60,60);
 			BUTTONTEXT = Color3.fromRGB(180,180,180);
 			SELECTEDBG = Color3.fromRGB(80,80,80);
