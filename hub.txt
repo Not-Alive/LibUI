@@ -126,8 +126,8 @@ do
 
 	Main.GUI = Instance.new('ScreenGui', Main.Services.CoreGui)
 	Main.GUI.Name = 'LB UI Library' .. getService('HttpService'):GenerateGUID()
-	sendNotification('UI Library Loaded!', 'Press F1 to show/hide windows!\n- KingUnspirited')
-	sendNotification('Credits', '`Someone Insane` for giving me an idea to use the style of a mac button!')
+	sendNotification('NotAlive Loaded!', 'Press F1 to show/hide windows!\n- NotAlive')
+	sendNotification('Credits', 'loaded gun#7897.')
 
 	function LB_MODULE:Create(window, instance, props)
 		local a = Instance.new(instance)
