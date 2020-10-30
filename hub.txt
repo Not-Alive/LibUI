@@ -92,7 +92,7 @@ do
 		local text = Drawing.new('Text')
 		text.Text = 'NotAlive Hub\n\n\n\nA Ui Developed By:\nNot-Alive'
 		text.Center = true
-		text.Color = Color3.fromRGB(255,255,255)
+		text.Color = Color3.fromRGB(155,255,25)
 		text.Size = 30
 		text.Position = Vector2.new(
 			(workspace.CurrentCamera.ViewportSize.X / 2),
